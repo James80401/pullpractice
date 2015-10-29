@@ -17,7 +17,7 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 #### Repo History
 `$ git log` - Show commit logs
 
-`$ git log --oneline --decorate --color --graph --all` __Fill Me Out__
+`$ git log --oneline --decorate --color --graph --all` - Shortcuts for displaying log formats
 
 `$ git log -p [filename]` __Fill Me Out__
 
