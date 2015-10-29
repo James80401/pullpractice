@@ -12,27 +12,27 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 #### Repo Status
 `$ git status` - Check the status of your current repository and see which files have changed.
 
-`$ git diff` - Show changes between commits, commit and working tree
+`$ git diff` - __Fill Me Out__
 
 #### Repo History
-`$ git log` - Show commit logs
+`$ git log` - __Fill Me Out__
 
 `$ git log --oneline --decorate --color --graph --all` - __Fill Me Out__
 
-`$ git log -p [filename]` - Shows git log with file contents visible
+`$ git log -p [filename]` __Fill Me Out__
 
 #### Stage files to commit
-`$ git add <filename>` - Add file contents to the index
+`$ git add <filename>` - __Fill Me Out__
 
-`$ git add -A` - Adds all files' contents to the index
+`$ git add -A` - __Fill Me Out__
 
 #### Commit changes in staged files
-`$ git commit -m "<commit message>"` - __Fill Me Out__
+`$ git commit -m "<commit message>"` - adds staged changes to commited changes
 
 #### Branching
-`$ git branch <branch name>` - __Fill Me Out__
+`$ git branch <branch name>` - Creates a new branch
 
-`$ git branch` - __Fill Me Out__
+`$ git branch` - List, create, or delete branches.
 
 `$ git checkout <branch name>` - __Fill Me Out__
 
